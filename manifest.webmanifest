@@ -1,0 +1,23 @@
+{
+  "name": "몽실몽실",
+  "short_name": "몽실몽실",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ECEAEA",
+  "theme_color": "#3D0B26",
+  "icons": [
+    {
+      "src": "./mongsil-icon-180.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./mongsil-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
